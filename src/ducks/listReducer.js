@@ -6,7 +6,7 @@ const initialState = {
 }
 
 // Action Types
-
+const GET_LIST = "GET_LIST"
 
 // Reducer
 export default function listReducer( state = initialState, action ) {
